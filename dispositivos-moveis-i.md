@@ -2,6 +2,7 @@
 title: Dispositivos Móveis I
 markmap:
   colorFreezeLevel: 3
+  initialExpandLevel: 0
 ---
 
 ## Módulo 01
@@ -10,15 +11,59 @@ markmap:
 
 #### História
 
+##### Criado na década de **90** por **James Gosling** <br> na empresa Sun Microsystems
+
+##### O objetivo do Java quando criado era para ser <br> usado em **dispositivos embarcados (TVs)**
+
+##### A equipe da época viu que o Java tinha muito <br> potencial e avançou no desenvolvimento
+
+##### Em **2008** foi comprada pela empresa Oracle
+
 #### Compilação
 
-#### Java Virtual Machine
+##### É o processo de **conversão** de **linguagem textual** <br> para **linguagem de máquina**
+
+##### Linguagem **textual** são entendidas por **humanos**
+
+##### Linguagem de **máquina** são entendidas por **computadores** 
+
+##### Faz uso de um software chamado **compilador**
+
+#### Java Virtual Machine (JVM)
+
+##### É um **software** que faz a leitura dos bytecodes <br> e converte para **instruções de código** <br> considerando o **Sistema Operacional** específico
+
+##### Pois cada Sistema Operacional tem suas **características** <br> e isso precisa ser considerado ao **executar o software**
+
+##### Figura da JVM
+
+### Aplicações do Java
+
+#### Usado em Softwares Desktop
+
+##### Supermercados
+
+##### Farmácias
+
+##### Gestão de Pessoas
+
+#### Aplicativos Android
+
+#### Desenvolvimento de Serviços (API)
 
 ### Ambiente de Desenvolvimento
 
 #### NetBeans IDE
 
+##### Parte visual para construção telas **muito boa**, <br> pois consegue criar telas fazendo **drag and drop** <br> dos elementos
+
+##### Código fica um pouco **poluído** de comentários <br> gerados pela IDE
+
 #### Eclipse
+
+##### Não tem a parte visual, precisa fazer <br> manualmente **(muito trabalhoso)**
+
+##### Código fonte fica **limpo**
 
 ### Fundamentos
 
