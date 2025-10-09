@@ -37,6 +37,8 @@ markmap:
 
 ##### Figura da JVM
 
+#### Documentação da Linguagem [Java](https://docs.oracle.com/javase/8/docs/api/index.html?help-doc.html)
+
 ### Aplicações do Java
 
 #### Usado em Softwares Desktop
@@ -65,6 +67,14 @@ markmap:
 
 ##### Código fonte fica **limpo**
 
+### **Atividade**
+
+#### Realizar uma pesquisa na internet **(5 minutos)** <br> sobre os tópicos mencionados anteriormente
+
+#### Buscar por informações relevantes e algumas <br> curiosidades
+
+#### Responder o desafio (Kahoot ou outro game, <br>usar como base a apresentação de história e <br>fundamentos)
+
 ### Fundamentos
 
 #### Variáveis
@@ -79,6 +89,10 @@ markmap:
 
 ##### switch case
 
+#### **Atividade**
+
+##### Montar uma atividade avaliativa <br> abordando os itens anteriores <br> dos fundamentos
+
 #### Estrutura de Repetição
 
 ##### for
@@ -86,6 +100,10 @@ markmap:
 ##### while
 
 #### Vetores
+
+#### **Atividade**
+
+##### Montar uma atividade avaliativa <br> abordando **Estrutura de Repetição** <br> e  **Vetores**
 
 ### Programação Orientada à Objetos
 
