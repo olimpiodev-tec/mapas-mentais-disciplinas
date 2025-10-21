@@ -32,7 +32,7 @@ markmap:
 ##### Documentação da Linguagem <a href="https://docs.oracle.com/javase/8/docs/api/index.html?help-doc.html" target="_blank">Java</a>
 ##### Livro <a href="https://drive.google.com/file/d/1cbL3z3R31e3iVh0Lq6MmBjj59ff7iH1p/view?usp=drive_link" target="_blank">Java como Programar 8° Edição</a>
 
-#### Vídeo aulas Loiane Gronner <a href="https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r" target="_blank">Youtube</a>
+##### Vídeo aulas Loiane Gronner <a href="https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r" target="_blank">Youtube</a>
 
 ### Aplicações do Java
 
@@ -77,12 +77,33 @@ markmap:
 ##### print
 ##### println
 ##### printf
+##### Argumentos
 
 #### Variáveis
+##### String
+##### int
+##### double
+##### float
+##### boolean
+##### char
+##### **Atividade**
+###### Porque o tipo **String** é <br>diferente dos **outros**? 
 
 #### Constantes
+##### final
 
 #### Operações Matemáticas
+##### Soma
+##### Subtração
+##### Multiplicação
+##### Divisão
+##### Resto da divisão
+##### [Biblioteca Math](https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html)
+###### pow
+###### round
+###### sqrt
+
+#### **Atividade**
 
 #### Estrutura de Decisão
 
