@@ -63,7 +63,7 @@ markmap:
 #### Buscar por informações relevantes e algumas <br> curiosidades
 #### Responder o desafio (Kahoot ou outro game, <br>usar como base a apresentação de história e <br>fundamentos)
 
-### Fundamentos
+### <a href="https://github.com/olimpiodev-tec/java/tree/main/fundamentos" target="_blank">Fundamentos</a>
 
 #### Compilando
 ###### javac
@@ -98,7 +98,7 @@ markmap:
 ##### Multiplicação
 ##### Divisão
 ##### Resto da divisão
-##### [Biblioteca Math](https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html)
+##### <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html" target="_blank">Biblioteca Math</a>
 ###### pow
 ###### round
 ###### sqrt
