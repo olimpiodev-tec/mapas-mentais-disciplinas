@@ -34,29 +34,31 @@ markmap:
 
 ##### Vídeo aulas Loiane Gronner <a href="https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r" target="_blank">Youtube</a>
 
-### Aplicações do Java
+#### Aplicações do Java
 
-#### Usado em Softwares Desktop
-##### Supermercados
-##### Farmácias
-##### Gestão de Pessoas
+##### Softwares Desktop
+###### Supermercados
+###### Farmácias
+###### Gestão de Pessoas
 
-#### Aplicativos Android
+##### Aplicativos Android
 
-#### Desenvolvimento de Serviços (API)
+##### Desenvolvimento de Serviços (API)
 
-### Ambiente de Desenvolvimento
+#### Ambiente de Desenvolvimento
 
-#### NetBeans IDE
-##### Parte visual para construção telas **muito boa**, <br> pois consegue criar telas fazendo **drag and drop** <br> dos elementos
-##### Código fica um pouco **poluído** de comentários <br> gerados pela IDE
+##### NetBeans IDE
+###### Parte visual para construção telas **muito boa**, <br> pois consegue criar telas fazendo **drag and drop** <br> dos elementos
+###### Código fica um pouco **poluído** de comentários <br> gerados pela IDE
 
-#### Eclipse
+##### Eclipse
 ##### Não tem a parte visual, precisa fazer <br> manualmente **(muito trabalhoso)**
-##### Código fonte fica **limpo**
+###### Código fonte fica **limpo**
 
-#### Visual Studio Code
+##### Visual Studio Code
 ##### Código fonte fica **limpo** e tem muita produtividade <br> quando usado para praticar a **lógica**.
+
+#### **Atividade**
 
 ### Fundamentos
 
