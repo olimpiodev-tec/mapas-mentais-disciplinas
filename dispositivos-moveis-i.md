@@ -58,12 +58,13 @@ markmap:
 #### Visual Studio Code
 ##### Código fonte fica **limpo** e tem muita produtividade <br> quando usado para praticar a **lógica**.
 
-### **Atividade**
-#### Realizar uma pesquisa na internet **(5 minutos)** <br> sobre os tópicos mencionados anteriormente
-#### Buscar por informações relevantes e algumas <br> curiosidades
-#### Responder o desafio (Kahoot ou outro game, <br>usar como base a apresentação de história e <br>fundamentos)
+### Fundamentos
 
-### <a href="https://github.com/olimpiodev-tec/java/tree/main/fundamentos" target="_blank">Fundamentos</a>
+#### Algoritmo
+##### Entender o problema
+##### Entrada de dados
+##### Processamento
+##### Saída
 
 #### Compilando
 ###### javac
@@ -72,36 +73,40 @@ markmap:
 ###### O **.class** não é um programa executável, <br> é um **bytecode** que a **JVM** interpreta <br> **e procura a classe com nome do arquivo**
 
 #### Imprimindo informações
-##### System.out
-##### System.err
-##### print
-##### println
-##### printf
-##### Argumentos
+##### <a href="https://github.com/olimpiodev-tec/java/blob/main/fundamentos/Hello.java" target="_blank">System</a>
+###### out
+###### err
+###### print
+###### println
+##### Formatação
+###### <a href="https://github.com/olimpiodev-tec/java/blob/main/fundamentos/Formata.java" target="_blank">printf</a>
+###### <a href="https://github.com/olimpiodev-tec/java/blob/main/fundamentos/Informacao.java" target="_blank">format</a>
+##### <a href="https://github.com/olimpiodev-tec/java/blob/main/fundamentos/Argumentos.java" target="_blank">Argumentos</a>
 
-#### Variáveis
+#### <a href="https://github.com/olimpiodev-tec/java/blob/main/fundamentos/Informacao.java" target="_blank">Tipos de dados</a>
 ##### String
 ##### int
 ##### double
 ##### float
 ##### boolean
 ##### char
-##### **Atividade**
-###### Porque o tipo **String** é <br>diferente dos **outros**? 
+##### Porque o tipo **String** é <br>diferente dos **outros**? 
+
+#### Entrada de dados
+##### <a href="https://github.com/olimpiodev-tec/java/blob/main/fundamentos/Saida.java" target="_blank">Scanner</a>
 
 #### Constantes
-##### final
+##### <a href="https://github.com/olimpiodev-tec/java/blob/main/fundamentos/Figuras.java" target="_blank">final</a>
 
 #### Operações Matemáticas
-##### Soma
-##### Subtração
-##### Multiplicação
-##### Divisão
-##### Resto da divisão
+##### <a href="https://github.com/olimpiodev-tec/java/blob/main/fundamentos/Media.java" target="_blank">Soma<br>Subtração<br>Multiplicação</a>
+##### <a href="https://github.com/olimpiodev-tec/java/blob/main/fundamentos/Divide.java" target="_blank">Divisão</a>
+##### <a href="https://github.com/olimpiodev-tec/java/blob/main/fundamentos/Impar.java" target="_blank">Resto da divisão</a>
 ##### <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html" target="_blank">Biblioteca Math</a>
-###### pow
-###### round
-###### sqrt
+###### <a href="https://github.com/olimpiodev-tec/java/blob/main/fundamentos/Exponencial.java" target="_blank">pow</a>
+###### <a href="https://github.com/olimpiodev-tec/java/blob/main/fundamentos/Sorteio.java" target="_blank">round</a>
+###### <a href="https://github.com/olimpiodev-tec/java/blob/main/fundamentos/Raiz.java" target="_blank">sqrt</a>
+###### <a href="https://github.com/olimpiodev-tec/java/blob/main/fundamentos/Nota.java" target="_blank">random</a>
 
 #### **Atividade**
 
