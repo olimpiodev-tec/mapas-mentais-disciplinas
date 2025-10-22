@@ -118,10 +118,6 @@ markmap:
 
 ##### switch case
 
-#### **Atividade**
-
-##### Montar uma atividade avaliativa <br> abordando os itens anteriores <br> dos fundamentos
-
 #### Estrutura de Repetição
 
 ##### for
@@ -130,9 +126,7 @@ markmap:
 
 #### Vetores
 
-#### **Atividade**
-
-##### Montar uma atividade avaliativa <br> abordando **Estrutura de Repetição** <br> e  **Vetores**
+#### **Atividades**
 
 ### Programação Orientada à Objetos
 
