@@ -110,7 +110,7 @@ markmap:
 ###### <a href="https://github.com/olimpiodev-tec/java/blob/main/fundamentos/Raiz.java" target="_blank">sqrt</a>
 ###### <a href="https://github.com/olimpiodev-tec/java/blob/main/fundamentos/Nota.java" target="_blank">random</a>
 
-#### **Atividade**
+#### <a href="https://github.com/olimpiodev-tec/java/blob/main/fundamentos/atividades/readme.md" target="_blank">Atividades</a>
 
 #### Estrutura de Decisão
 
