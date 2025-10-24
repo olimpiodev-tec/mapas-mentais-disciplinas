@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+<title>Markmap</title>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-family: ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji',
+    'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+}
+#mindmap {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+.markmap-dark {
+  background: #27272a;
+  color: white;
+}
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.18.12/dist/style.css">
+</head>
+<body>
+<svg id="mindmap"></svg>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-view@0.18.12/dist/browser/index.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.18.12/dist/index.js"></script><script>(r => {
+              setTimeout(r);
+            })(function renderToolbar() {
+  const {
+    markmap,
+    mm
+  } = window;
+  const {
+    el
+  } = markmap.Toolbar.create(mm);
+  el.setAttribute('style', 'position:absolute;bottom:20px;right:20px');
+  document.body.append(el);
+})</script><script>((getMarkmap, getOptions, root2, jsonOptions) => {
+              const markmap = getMarkmap();
+              window.mm = markmap.Markmap.create(
+                "svg#mindmap",
+                (getOptions || markmap.deriveOptions)(jsonOptions),
+                root2
+              );
+              if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+                document.documentElement.classList.add("markmap-dark");
+              }
+            })(() => window.markmap,null,{"content":"<center>Lógica Programação <br> e Algoritmos</center>","children":[{"content":"L&#xf3;gica","children":[],"payload":{"tag":"h2","lines":"7,8"}},{"content":"Algoritmo","children":[{"content":"Descri&#xe7;&#xe3;o narrativa","children":[],"payload":{"tag":"h3","lines":"9,10"}},{"content":"Fluxograma","children":[],"payload":{"tag":"h3","lines":"10,11"}},{"content":"Pseudoc&#xf3;digo","children":[],"payload":{"tag":"h3","lines":"11,12"}}],"payload":{"tag":"h2","lines":"8,9"}},{"content":"Linguagem de programa&#xe7;&#xe3;o","children":[{"content":"Caracter&#xed;sticas","children":[],"payload":{"tag":"h3","lines":"14,15"}},{"content":"Tipos","children":[{"content":"Interpretada","children":[],"payload":{"tag":"h4","lines":"16,17"}},{"content":"Compilada","children":[],"payload":{"tag":"h4","lines":"17,18"}}],"payload":{"tag":"h3","lines":"15,16"}}],"payload":{"tag":"h2","lines":"13,14"}},{"content":"Linguagem C","children":[{"content":"Hist&#xf3;ria","children":[],"payload":{"tag":"h3","lines":"20,21"}},{"content":"Compila&#xe7;&#xe3;o","children":[],"payload":{"tag":"h3","lines":"21,22"}},{"content":"Refer&#xea;ncias","children":[],"payload":{"tag":"h3","lines":"22,23"}},{"content":"Aplica&#xe7;&#xf5;es","children":[],"payload":{"tag":"h3","lines":"23,24"}},{"content":"Ambiente de desenvolvimento","children":[],"payload":{"tag":"h3","lines":"24,25"}},{"content":"Atividade","children":[],"payload":{"tag":"h3","lines":"25,26"}}],"payload":{"tag":"h2","lines":"19,20"}},{"content":"Fundamentos","children":[{"content":"Compilando","children":[],"payload":{"tag":"h3","lines":"28,29"}},{"content":"Imprimindo informa&#xe7;&#xf5;es","children":[],"payload":{"tag":"h3","lines":"29,30"}},{"content":"Vari&#xe1;veis","children":[],"payload":{"tag":"h3","lines":"30,31"}},{"content":"Constantes","children":[],"payload":{"tag":"h3","lines":"31,32"}},{"content":"Opera&#xe7;&#xf5;es matem&#xe1;ticas","children":[],"payload":{"tag":"h3","lines":"32,33"}},{"content":"Atividade","children":[],"payload":{"tag":"h3","lines":"33,34"}}],"payload":{"tag":"h2","lines":"27,28"}},{"content":"Estruturas","children":[{"content":"Estrutura de decis&#xe3;o","children":[],"payload":{"tag":"h3","lines":"36,37"}},{"content":"Estrutura de repeti&#xe7;&#xe3;o","children":[],"payload":{"tag":"h3","lines":"37,38"}},{"content":"Atividade","children":[],"payload":{"tag":"h3","lines":"38,39"}}],"payload":{"tag":"h2","lines":"35,36"}},{"content":"Fun&#xe7;&#xf5;es","children":[],"payload":{"tag":"h2","lines":"40,41"}},{"content":"Vetores","children":[],"payload":{"tag":"h2","lines":"42,43"}},{"content":"Arquivos","children":[],"payload":{"tag":"h2","lines":"44,45"}}]},{"colorFreezeLevel":2,"initialExpandLevel":0})</script>
+</body>
+</html>
